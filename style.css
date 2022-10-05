@@ -1,0 +1,691 @@
+.nav {
+    display: flex;
+    background-color: yellow;
+    height: 40px;
+    width: 100%;
+
+}
+
+.navi {
+    margin: 5px 0px 0px 68px;
+    padding: 1px 0px 0px 0px;
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+
+}
+
+.navi:hover {
+    margin: 5px 0px 0px 68px;
+    padding: 1px 0px 0px 0px;
+    background-color: greenyellow;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    transition: .19s ease;
+}
+
+.s {
+    margin: 5px 0px 0px 195px;
+    background-color: lightskyblue;
+    padding: 5px 2px 0px 12px;
+}
+
+.sb {
+    height: 18px;
+}
+
+.i {
+    position: relative;
+    text-align: center;
+
+}
+
+.q {
+    position: absolute;
+    top: 1%;
+    left: 29%;
+    font-size: 66px;
+    color: gold;
+}
+
+.t {
+    position: absolute;
+    top: 35%;
+    left: 69%;
+    width: 266px;
+    height: 20px;
+}
+
+.p {
+    position: absolute;
+    top: 53%;
+    left: 69%;
+    width: 266px;
+    height: 20px;
+
+}
+
+.f {
+    position: absolute;
+    top: 59%;
+    left: 82%;
+
+}
+
+.b {
+    position: absolute;
+    top: 70%;
+    width: 274px;
+    left: 69%;
+    height: 27px;
+
+}
+
+.tra {
+    position: absolute;
+    top: 28%;
+    left: 50%;
+    background-color: black;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.img {
+    position: absolute;
+    top: 32%;
+    left: 5%;
+    height: 279px;
+    opacity: 0.5;
+}
+
+.img:hover {
+    position: absolute;
+    top: 32%;
+    left: 5%;
+    height: 279px;
+    opacity: 90%;
+
+}
+
+.b:hover {
+    position: absolute;
+    top: 70%;
+    width: 274px;
+    left: 69%;
+    height: 27px;
+    background-color: blue;
+    cursor: pointer;
+
+}
+
+.bf {
+    position: absolute;
+    top: 76%;
+    left: 72%;
+
+}
+
+.gif {
+    margin: 56px 0px 64px 0px;
+}
+
+.R {
+    background-color: lightblue;
+    height: 390px;
+    width: 100%;
+    display: flex;
+    margin: 0px 0px 220px 0px;
+
+}
+
+.dg {
+    color: white;
+    margin: 48px 0px 0px 43px;
+    border-style: solid;
+    width: 358px;
+    height: 394px;
+    background-color: darkcyan;
+    opacity: revert;
+
+}
+
+.g {
+    margin: 9px 0px 0px 123px;
+    font-size: 32px;
+
+}
+
+.gp {
+    margin: 42px 0px 0px 0px;
+    padding: 3px 3px 2px 47px;
+
+}
+
+.gb {
+    margin: 105px 0px 0px 48px;
+    height: 39px;
+    width: 261px;
+}
+
+.gb:hover {
+    background-color: lightskyblue;
+    cursor: pointer;
+    margin: 105px 0px 0px 48px;
+    height: 39px;
+    width: 261px;
+
+}
+
+.h {
+    margin: 0px 0px 0px 86px;
+    border-style: ridge;
+    height: 333px;
+    width: 358px;
+    background-color: darkcyan;
+    color: white;
+
+}
+
+.ch {
+    margin: 20px 0px 0px 102px;
+    font-size: 30px;
+
+}
+
+.cp {
+    margin: 22px 0px 0px 63px;
+    padding: 0px 29px 0px 0px;
+
+}
+
+.cb {
+    margin: 48px 0px 0px 47px;
+    padding: 0px 0px 0px 0px;
+    height: 39px;
+    width: 261px;
+    opacity: .7;
+}
+
+.cb:hover {
+    background-color: lightskyblue;
+    cursor: pointer;
+    margin: 48px 0px 0px 47px;
+    padding: 0px 0px 0px 0px;
+    height: 39px;
+    width: 261px;
+    opacity: 90%;
+
+}
+
+.e {
+    margin: 48px 0px 0px 75px;
+    border-style: ridge;
+    height: 394px;
+    width: 291px;
+    background-color: darkcyan;
+    color: white;
+}
+
+.ea {
+    margin: 7px 0px 0px 91px;
+    font-size: 32px;
+
+}
+
+.ep {
+    margin: 24px 34px 0px 48px;
+}
+
+.eb {
+    margin: 75px 0px 0px 30px;
+    height: 39px;
+    width: 233px;
+}
+
+.eb:hover {
+    background-color: lightblue;
+    cursor: pointer;
+    margin: 75px 0px 0px 30px;
+    height: 39px;
+    width: 233px;
+
+}
+
+.back {
+    background-color: aqua;
+}
+
+.reg {
+    color: darkblue;
+    font-size: 19px;
+    font-family: serif;
+    margin: 48px 0px 28px 211px;
+    background-color: blanchedalmond;
+    width: 806px;
+    height: 775px;
+    border-radius: 67px;
+}
+
+.head {
+    margin: 13px 0px 0px 213px;
+    padding: 25px 0px 0px 0px;
+}
+
+.pr {
+    margin: 36px 0px 0px 38px;
+
+}
+
+.name {
+    margin: 42px 0px 0px 61px;
+    padding: 0px 0px 0px 0px;
+    width: 273px;
+    height: 32px;
+
+}
+
+.lname {
+    margin: 0px 0px 0px 82px;
+    padding: 0px 0px 0px 0px;
+    height: 32px;
+    width: 273px;
+
+}
+
+.dob {
+    margin: 50px 0px 0px 61px;
+    padding: 0px 0px 0px 0px;
+    height: 32px;
+    width: 273px;
+}
+
+.gender {
+    margin: 0px 0px 0px 82px;
+    padding: 0px 0px 0px 0px;
+}
+
+.state {
+    margin: 50px 0px 0px 61px;
+    padding: 0px 0px 0px 0px;
+    height: 32px;
+    width: 273px;
+}
+
+.address {
+    margin: 0px 0px 0px 82px;
+    padding: 0px 0px 0px 0px;
+    height: 32px;
+    width: 273px;
+}
+
+.email {
+    margin: 50px 0px 0px 61px;
+    padding: 0px 0px 0px 0px;
+    height: 32px;
+    width: 273px;
+
+}
+
+.password {
+    margin: 0px 0px 0px 82px;
+    padding: 0px 0px 0px 0px;
+    height: 32px;
+    width: 273px;
+
+}
+
+.phon {
+    margin: 50px 0px 0px 61px;
+    padding: 0px 0px 0px 0px;
+    height: 32px;
+    width: 273px;
+
+}
+
+.zip {
+    margin: 0px 0px 0px 82px;
+    padding: 0px 0px 0px 0px;
+    height: 32px;
+    width: 273px;
+
+}
+
+.button {
+    margin: 86px 0px 0px 242px;
+    height: 32px;
+    width: 273px;
+    border-radius: 30px;
+
+}
+
+.button:hover {
+    background-color: red;
+    cursor: pointer;
+    margin: 86px 0px 0px 242px;
+    height: 32px;
+    width: 273px;
+    border-radius: 30px;
+    transition: 0.19s;
+
+}
+
+.laptop {
+    opacity: 0.5;
+}
+
+.laptop:hover {
+    opacity: 90%;
+}
+
+.cimg {
+    height: 445px;
+    width: 100%;
+}
+
+.cbb {
+    background-color: lightgray;
+    margin: 0px 0px 0px 0px;
+    height: 485px;
+
+}
+
+.cimg2 {
+    border-radius: 160px;
+    height: 260px;
+    margin: 20px 0px 0px 70px;
+    opacity: 0.5;
+
+}
+
+.cimg2:hover {
+    border-radius: 160px;
+    height: 260px;
+    margin: 20px 0px 0px 70px;
+    opacity: 80%;
+}
+
+.cpp {
+    margin: 0px 0px 0px 133px;
+    padding: 0px 138px 0px 0px;
+
+}
+
+.term {
+    margin: 19px 0px 0px 153px;
+    padding: 36px 0px 0px 0px;
+
+}
+
+.cer2 {
+    height: 311px;
+    background-color: lightskyblue;
+    margin: 87px 0px 186px 0px;
+    display: flex;
+
+}
+
+.cpp3 {
+    margin: 101px 0px 0px 72px;
+    color: black;
+    font-family: sans-serif;
+
+}
+
+.cimg3 {
+    height: 334px;
+    width: 379px;
+    padding: 0px 0px 58px 63px;
+    margin: 30px 56px 0px 0px;
+    opacity: 0.2;
+
+}
+
+.cimg3:hover {
+    height: 320px;
+    padding: 0px 0px 58px 63px;
+    margin: 30px 56px 0px 0px;
+    opacity: 90%;
+    transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+
+}
+
+.cimg4 {
+    opacity: 0.2;
+    height: 803px;
+    width: 100%;
+
+}
+
+.cimg4:hover {
+    opacity: 90%;
+    height: 803px;
+    width: 100%;
+    transition: .3s;
+
+}
+
+.eimg {
+    height: 500px;
+    width: 100%;
+    opacity: .7;
+
+}
+
+.eimg:hover {
+    height: 500px;
+    width: 100%;
+    opacity: 80%;
+
+}
+
+.ecou {
+    background-color: lightgray;
+    height: 553px;
+    margin: 105px 0px 105px 0px;
+
+}
+
+.earni {
+    margin: 49px 0px 0px 140px;
+}
+
+.ehead {
+    color: darkolivegreen;
+    font-family: sans-serif;
+
+}
+
+.eimg2 {}
+
+.eimg3 {
+    height: 600px;
+    width: 100%;
+
+}
+
+.fb {
+    background-color: darkgray;
+    height: 560px;
+    margin: 72px 220px 0px 220px;
+    border-radius: 80px;
+
+}
+
+.fhead {
+    margin: 76px 0px 0px 250px;
+    color: blue;
+    font-family: fantasy;
+    font-size: 40px;
+
+}
+
+.fp {
+    color: brown;
+    margin: 83px 0px 0px 61px;
+    padding: 0px 222px 0px 100px;
+    font-size: 30px;
+}
+
+.fbutt {
+    margin: 52px 0px 0px 266px;
+    height: 32px;
+    width: 273px;
+}
+
+.fbutt:hover {
+    background-color: lightblue;
+    cursor: pointer;
+    margin: 52px 0px 0px 266px;
+    height: 32px;
+    width: 273px;
+
+}
+
+.kimg {
+    height: 450px;
+    width: 100%;
+    margin: 0px 0px 84px 0px;
+    opacity: 0.8;
+}
+
+.kimg:hover {
+    height: 450px;
+    width: 100%;
+    margin: 0px 0px 84px 0px;
+    opacity: 90%;
+
+}
+
+.khead {
+    background-color: lightgray;
+    height: 299px;
+    margin: 0px 0px 170px 0px;
+}
+
+.kimg2 {
+    height: 200px;
+    width: 447px;
+    margin: 0px 0px 0px 801px;
+    background-color: lightblue;
+}
+.kp{
+    margin: 0px 0px 0px 70px;
+    padding: 0px 586px 0px 0px;
+    color: black;
+    font-family: system-ui;
+    font-size: large;
+}
+.khead2{    
+    display: flex;
+    margin: 0px 0px 48px 0px;
+
+}
+.kimg3{
+    height: 400px;
+
+}
+.kp2{
+    margin: 137px 20px 0px 39px;
+    font-size: 22px;
+    font-family: sans-serif;
+    color: darkgreen;
+
+}
+.hp{
+    display: flex;
+    display: flex;
+    background-color: lightgrey;
+    height: 429px;
+    margin: 0px 0px 99px 0px;
+    
+
+}
+.himg2{
+    height: 468px;
+    width: 593px;
+    border-radius: revert;
+    margin: 0px 0px 160px 0px;
+
+}
+.hpp{
+    margin: 181px 0px 65px 59px;
+    font-family: cursive;
+    padding: 0px 43px 0px 0px;
+
+}
+.hicon{
+    display: flex;
+    justify-content: center;
+
+}
+.icon{
+    height: 38px;
+    display: inline;
+    margin: 0px 0px 19px 15px;
+    opacity: 0.7;
+}
+.icon:hover{
+    height: 41px;
+    cursor: pointer;
+    display: inline;
+    margin: 0px 0px 19px 15px;
+    opacity: 90%;
+
+}
+.simg{
+    height: 549px;
+    width: 100%;
+
+}
+.shead{
+    display: flex;
+    margin: 116px 0px 73px 0px;
+
+}
+.sp{
+    
+    margin: 110px 34px 0px 40px;
+    font-family: system-ui;
+    color: blue;
+
+}
+.simg2{
+    height: 400px;
+    opacity: .6;
+
+}
+.simg2:hover{
+    height: 395px;
+    opacity: 90%;
+    text-align: 1px;
+    transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+
+
+}
+
+.term:hover {
+    color: darkslategray;
+    cursor: pointer;
+    margin: 19px 0px 0px 153px;
+    padding: 36px 0px 0px 0px;
+
+
+}
+
+.footer {
+    background-color: darkkhaki;
+    margin: 0px 0px 0px 0px;
+    padding: 43px 0px 0px 355px;
+    height: 137px;
+    width: 908px;
+    color: brown;
+    font-size: 20px;
+    font-family: fantasy;
+
+}
